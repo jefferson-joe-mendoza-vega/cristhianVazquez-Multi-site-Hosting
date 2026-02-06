@@ -193,3 +193,25 @@ Para conectar un dominio propio (ej: `www.goldenhouseperu.com`):
 - Cada sitio es **independiente**: tienen su propio `package.json`, `node_modules`, y `build`.
 - Firebase CLI debe estar instalado globalmente: `npm install -g firebase-tools`
 - Debes estar logueado: `firebase login`
+
+---
+
+## 🏷️ SEO y Redes Sociales
+
+Ambos sitios están optimizados para compartir en redes sociales y WhatsApp:
+
+### ✅ Incluye:
+- **Open Graph** (Facebook, WhatsApp, LinkedIn)
+- **Twitter Cards** (Twitter/X)
+- **Datos estructurados** (Schema.org)
+- **Favicon personalizado** (usa logo.png en lugar del de Svelte)
+- **Meta descriptions** optimizadas
+- **Títulos específicos** para cada sitio
+
+### 📱 Al compartir se mostrará:
+| Sitio | Título | Descripción | Imagen |
+|-------|--------|-------------|---------|
+| Golden House Peru | "Golden House Peru - Construyendo Sueños, Creando Hogares" | Expertos en construcción residencial... | logo.png |
+| Valparaíso | "Valparaíso - Agentes de Cambio Social" | Trabajando para construir un mejor futuro... | logo.png |
+
+**Prueba el SEO**: Comparte las URLs en WhatsApp o Facebook para ver las previews.
