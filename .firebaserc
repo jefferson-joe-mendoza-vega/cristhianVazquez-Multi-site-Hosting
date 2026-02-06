@@ -1,0 +1,18 @@
+{
+  "projects": {
+    "default": "cristhian-vasquez-2026"
+  },
+  "targets": {
+    "cristhian-vasquez-2026": {
+      "hosting": {
+        "golden": [
+          "goldenhouseperu-618e1"
+        ],
+        "valparaiso": [
+          "valparaiso-cv"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}
