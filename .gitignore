@@ -11,6 +11,9 @@ Valparaiso/valparaiso/.svelte-kit/
 .firebase/
 firebase-debug.log
 firebase-debug.*.log
+.firebaserc.local
+firebase.json.backup
+.firebase.local
 
 # Archivos del sistema
 .DS_Store
